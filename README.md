@@ -22,7 +22,7 @@
             
 ## 📚 Usage 
  
- Runs on localhost:8080 and deployed via 
+ Runs on localhost:8080 and deployed via https://radiant-castle-11065.herokuapp.com
  
 ## 🙊 Languages Needed 
  
